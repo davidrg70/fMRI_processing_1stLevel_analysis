@@ -4,9 +4,7 @@ spm('defaults','fmri');
 
 analysis_dir = '/home/uni10/nmri/projects/dgarnica/MRI_EEG_PROSPECTIVE/ROLANDIC'; % It is necessary to write this as char (to concatenate it with the rest of data as char)
 cd(analysis_dir);
-subjects_list = {'P.NUSC99A'};
-% subjects_list = {'P.TKMX99A', 'P.WDUK99A', 'P.FVIW99A', 'P.ZGVA99A', 'P.OWYV99A', 'P.NXFW99A',...
-%                   'P.JUQJ99A', 'P.NUSC99A'};
+subjects_list = {'pseudonyms'};
 
 %% Processing
 
