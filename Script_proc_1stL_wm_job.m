@@ -1,4 +1,6 @@
-% MULTIPLE-SUBJECTS SCRIPT WORKING MEMORY (2021) DG
+% Created by David Garnica, david.garnica@med.uni-goettingen.de
+% October 2021, Universitätsmedizin Göttingen, Neurology Department
+% MULTIPLE-SUBJECTS SCRIPT WORKING MEMORY
 
 spm('defaults','fmri');
 
