@@ -1,4 +1,6 @@
-% MULTIPLE-SUBJECTS SCRIPT LANGUAGE TASK (WL) (2021) DG (& DvdV)
+% Created by David Garnica, david.garnica@med.uni-goettingen.de
+% October 2021, Universitätsmedizin Göttingen, Neurology Department
+% MULTIPLE-SUBJECTS SCRIPT LANGUAGE TASK (WL)
 
 spm('defaults','fmri');
 
