@@ -1,4 +1,4 @@
-# fMRI_processing
+# fMRI_processing_1stLevel_analysis
 Scripts for fMRI processing and 1st-Level analysis (SPM)
 
 Script_proc_1stL_wl_job
