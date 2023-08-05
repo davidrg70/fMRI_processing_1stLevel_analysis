@@ -1,6 +1,6 @@
 % Created by David Garnica, david.garnica@med.uni-goettingen.de
 % 2021, Universitätsmedizin Göttingen, Neurology Department
-% MULTIPLE-SUBJECTS SCRIPT WORKING MEMORY
+% MULTIPLE-SUBJECTS SCRIPT WORKING MEMORY TASK (WM)
 
 spm('defaults','fmri');
 
